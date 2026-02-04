@@ -1,0 +1,7 @@
+{
+  "name": "Autoheads Automotive",
+  "description": "A high-end luxury car showroom experience featuring flagship models, artisanal craftsmanship, and a premium minimalist aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
